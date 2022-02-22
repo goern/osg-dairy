@@ -2,7 +2,7 @@ baseURL = "https://goern.github.io/osg-dairy/"
 languageCode = "en-us"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 title = "the diary"
-copyright = "This is a customized copyright."
+copyright = "Copyright © 2022 Red Hat, Inc."
 
 theme = "diary"
 
@@ -21,11 +21,10 @@ theme = "diary"
 [params]
 subtitle = "continuous information of Open Services Group"
 
-# Twitter Card and Open Graph settings
 enableOpenGraph = true
 enableTwitterCards = true
-title = "My Blog" # will set 'og:site_name'
-description = "My HomePage Description"  # will set 'og:description'
+title = "The Open Services Group dairy"
+description = "please visite us at https://github.com/open-services-group/community/blob/main/README.md"
 
 [taxonomies]
    tag = "tags"
