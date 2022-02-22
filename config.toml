@@ -1,0 +1,36 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
+title = "the diary"
+copyright = "This is a customized copyright."
+
+theme = "diary"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "perldoc"
+    tabWidth = 4
+
+[params]
+subtitle = "continuous information of Open Services Group"
+
+# Twitter Card and Open Graph settings
+enableOpenGraph = true
+enableTwitterCards = true
+title = "My Blog" # will set 'og:site_name'
+description = "My HomePage Description"  # will set 'og:description'
+
+[taxonomies]
+   tag = "tags"
+
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 1
