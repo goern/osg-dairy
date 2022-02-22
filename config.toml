@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://goern.github.io/osg-dairy/"
 languageCode = "en-us"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 title = "the diary"
