@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
-    <link>https://goern.github.io/osg-dairy/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>https://goern.github.io/osg-dairy/posts/</link>
+    <description>Recent content in Posts on </description>
     <image>
       <url>https://avatars.githubusercontent.com/u/94559058?s=200&v=4</url>
       <link>https://avatars.githubusercontent.com/u/94559058?s=200&v=4</link>
@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2022 Red Hat, Inc.</copyright>
-    <lastBuildDate>Tue, 22 Feb 2022 17:27:10 +0100</lastBuildDate><atom:link href="https://goern.github.io/osg-dairy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 17:27:10 +0100</lastBuildDate><atom:link href="https://goern.github.io/osg-dairy/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Picture?</title>
       <link>https://goern.github.io/osg-dairy/posts/with-picture/</link>
@@ -38,8 +38,6 @@
       <guid>https://goern.github.io/osg-dairy/posts/first/</guid>
       <description>a short hello</description>
     </item>
-    
-    
     
   </channel>
 </rss>
