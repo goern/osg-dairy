@@ -1,71 +1,60 @@
-baseURL = "https://goern.github.io/osg-dairy/"
 languageCode = "en-us"
+baseURL = "https://goern.github.io/osg-dairy/"
+title = "Open Services Group dairy"
 copyright = "Copyright © 2022 Red Hat, Inc."
 
 theme = "PaperMod"
 paginate = 5
-
+enableInlineShortcodes = true
+enableRobotsTXT = true
+enableEmoji = true
 
 [minify]
 disableXML = true
 minifyOutput = true
 
 [params]
+description = "continuous information from the Open Services Group"
 env = "production"
-title = "the OSG dairy"
-description = "ExampleSite description"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "the Open Services Group authors"
-images = [ "https://avatars.githubusercontent.com/u/94559058?s=200&v=4" ]
+images = [ "https://avatars.githubusercontent.com/u/94559058" ]
 defaultTheme = "auto"
 disableThemeToggle = false 
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true 
+ShowShareButtons = true
 disableSpecial1stPost = false
 disableScrollToTop = false
 comments = false
 hidemeta = false
 hideSummary = false
 showtoc = true 
-tocopen = true 
+tocopen = false 
 
-  [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+[params.homeInfoParams]
+Title = "👋 The Open Services Group diary"
+Content = "this is where we post short updates of our SIG, working group, or subproject activities..."
 
-  [params.homeInfoParams]
-  Title = "👋 The Open Services Group diary"
-  Content = "this is where we post short updates of our SIG, working group, or subproject activities..."
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/operatefirst"
 
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/operatefirst"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/open-services-group"
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/open-services-group"
 
 [[menu.main]]
 identifier = "tags"
-name = "tags"
+name = "labels"
 url = "/tags/"
 weight = 20
 
 [[menu.main]]
-identifier = "find"
-name = "find"
+identifier = "search"
+name = "search"
 url = "/search/"
-weight = 30
-
-[[menu.main]]
-identifier = "archives"
-name = "archives"
-url = "/archives/"
 weight = 31
 
 [taxonomies]
@@ -76,25 +65,14 @@ series = "series"
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
-[privacy.vimeo]
-disabled = false
-simple = true
-
 [privacy.twitter]
 disabled = false
 enableDNT = true
 simple = true
 
-[privacy.instagram]
-disabled = false
-simple = true
-
 [privacy.youtube]
 disabled = false
 privacyEnhanced = true
-
-[services.instagram]
-disableInlineCSS = true
 
 [services.twitter]
 disableInlineCSS = true
