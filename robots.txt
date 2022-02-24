@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://goern.github.io/osg-dairy/sitemap.xml

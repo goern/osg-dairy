@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Series on </title>
+    <title>Series on Open Services Group dairy</title>
     <link>https://goern.github.io/osg-dairy/series/</link>
-    <description>Recent content in Series on </description>
+    <description>Recent content in Series on Open Services Group dairy</description>
     <image>
-      <url>https://avatars.githubusercontent.com/u/94559058?s=200&v=4</url>
-      <link>https://avatars.githubusercontent.com/u/94559058?s=200&v=4</link>
+      <url>https://avatars.githubusercontent.com/u/94559058</url>
+      <link>https://avatars.githubusercontent.com/u/94559058</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
