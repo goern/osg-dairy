@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Open Services Group dairy</title>
-    <link>https://goern.github.io/osg-dairy/posts/</link>
-    <description>Recent content in Posts on Open Services Group dairy</description>
+    <title>Posts on too long, didn&#39;t participate in meeting, ...</title>
+    <link>https://goern.github.io/tl-dp.in/posts/</link>
+    <description>Recent content in Posts on too long, didn&#39;t participate in meeting, ...</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/94559058</url>
       <link>https://avatars.githubusercontent.com/u/94559058</link>
@@ -11,40 +11,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2022 Red Hat, Inc.</copyright>
-    <lastBuildDate>Thu, 24 Feb 2022 08:27:23 +0100</lastBuildDate><atom:link href="https://goern.github.io/osg-dairy/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Feb 2022 08:27:23 +0100</lastBuildDate><atom:link href="https://goern.github.io/tl-dp.in/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyborg Initiative</title>
-      <link>https://goern.github.io/osg-dairy/posts/cyborg/</link>
+      <link>https://goern.github.io/tl-dp.in/posts/cyborg/</link>
       <pubDate>Thu, 24 Feb 2022 08:27:23 +0100</pubDate>
       
-      <guid>https://goern.github.io/osg-dairy/posts/cyborg/</guid>
+      <guid>https://goern.github.io/tl-dp.in/posts/cyborg/</guid>
       <description>Introduction Scifi icons created by Freepik - Flaticon</description>
     </item>
     
     <item>
       <title>Picture?</title>
-      <link>https://goern.github.io/osg-dairy/posts/with-picture/</link>
+      <link>https://goern.github.io/tl-dp.in/posts/with-picture/</link>
       <pubDate>Tue, 22 Feb 2022 17:27:10 +0100</pubDate>
       
-      <guid>https://goern.github.io/osg-dairy/posts/with-picture/</guid>
+      <guid>https://goern.github.io/tl-dp.in/posts/with-picture/</guid>
       <description>wow, if this works</description>
     </item>
     
     <item>
       <title>The Cond Entry</title>
-      <link>https://goern.github.io/osg-dairy/posts/2nd/</link>
+      <link>https://goern.github.io/tl-dp.in/posts/2nd/</link>
       <pubDate>Tue, 22 Feb 2022 17:17:20 +0100</pubDate>
       
-      <guid>https://goern.github.io/osg-dairy/posts/2nd/</guid>
+      <guid>https://goern.github.io/tl-dp.in/posts/2nd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://goern.github.io/osg-dairy/posts/first/</link>
+      <link>https://goern.github.io/tl-dp.in/posts/first/</link>
       <pubDate>Tue, 22 Feb 2022 17:11:38 +0100</pubDate>
       
-      <guid>https://goern.github.io/osg-dairy/posts/first/</guid>
+      <guid>https://goern.github.io/tl-dp.in/posts/first/</guid>
       <description>a short hello</description>
     </item>
     
