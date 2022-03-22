@@ -1,6 +1,6 @@
 languageCode = "en-us"
-baseURL = "https://goern.github.io/osg-dairy/"
-title = "Open Services Group dairy"
+baseURL = "https://goern.github.io/tl-dp.in/"
+title = "too long, didn't participate in meeting, ..."
 copyright = "Copyright © 2022 Red Hat, Inc."
 
 theme = "PaperMod"
@@ -14,9 +14,9 @@ disableXML = true
 minifyOutput = true
 
 [params]
-description = "continuous information from the Open Services Group"
+description = "continuous meeting abstracts"
 env = "production"
-author = "the Open Services Group authors"
+author = "the authors"
 images = [ "https://avatars.githubusercontent.com/u/94559058" ]
 defaultTheme = "auto"
 disableThemeToggle = false 
@@ -34,7 +34,7 @@ showtoc = true
 tocopen = false 
 
 [params.homeInfoParams]
-Title = "👋 The Open Services Group diary"
+Title = "👋 too long, didn't participate in meeting, ..."
 Content = "this is where we post short updates of our SIG, working group, or subproject activities..."
 
 [[params.socialIcons]]
