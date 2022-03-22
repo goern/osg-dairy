@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on too long, didn&#39;t participate in meeting, ...</title>
-    <link>https://goern.github.io/tl-dp.in/categories/</link>
+    <link>https://tl-dp.in/meeting/categories/</link>
     <description>Recent content in Categories on too long, didn&#39;t participate in meeting, ...</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/94559058</url>
@@ -10,6 +10,6 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2022 Red Hat, Inc.</copyright><atom:link href="https://goern.github.io/tl-dp.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2022 Red Hat, Inc.</copyright><atom:link href="https://tl-dp.in/meeting/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
