@@ -1,5 +1,5 @@
 ---
-title: "Cyborg Initiative"
+title: "Bot Initiative"
 date: 2022-02-24T08:27:23+01:00
 tags: [sig/services]
 author: "goern"
@@ -7,6 +7,6 @@ author: "goern"
 
 # Introduction
 
-![Cyborg](/cyborg.png)
+![Bot](/cyborg.png)
 
 [Scifi icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/scifi)
