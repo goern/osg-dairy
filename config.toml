@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseURL = "https://tl-dp.in/meeting/"
+baseURL = "https://tl-dp.in/"
 title = "too long, didn't participate in meeting, ..."
 copyright = "Copyright © 2022 Red Hat, Inc."
 
