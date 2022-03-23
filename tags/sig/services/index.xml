@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sig/services on too long, didn&#39;t participate in meeting, ...</title>
-    <link>https://tl-dp.in/meeting/tags/sig/services/</link>
+    <link>https://tl-dp.in/tags/sig/services/</link>
     <description>Recent content in sig/services on too long, didn&#39;t participate in meeting, ...</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/94559058</url>
@@ -10,13 +10,13 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2022 Red Hat, Inc.</copyright><atom:link href="https://tl-dp.in/meeting/tags/sig/services/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2022 Red Hat, Inc.</copyright><atom:link href="https://tl-dp.in/tags/sig/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyborg Initiative</title>
-      <link>https://tl-dp.in/meeting/posts/cyborg/</link>
+      <link>https://tl-dp.in/posts/cyborg/</link>
       <pubDate>Thu, 24 Feb 2022 08:27:23 +0100</pubDate>
       
-      <guid>https://tl-dp.in/meeting/posts/cyborg/</guid>
+      <guid>https://tl-dp.in/posts/cyborg/</guid>
       <description>Introduction Scifi icons created by Freepik - Flaticon</description>
     </item>
     

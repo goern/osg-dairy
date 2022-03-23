@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on too long, didn&#39;t participate in meeting, ...</title>
-    <link>https://tl-dp.in/meeting/tags/</link>
+    <link>https://tl-dp.in/tags/</link>
     <description>Recent content in Tags on too long, didn&#39;t participate in meeting, ...</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/94559058</url>
@@ -10,22 +10,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2022 Red Hat, Inc.</copyright><atom:link href="https://tl-dp.in/meeting/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2022 Red Hat, Inc.</copyright><atom:link href="https://tl-dp.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sig/community-experience</title>
-      <link>https://tl-dp.in/meeting/tags/sig/community-experience/</link>
+      <link>https://tl-dp.in/tags/sig/community-experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tl-dp.in/meeting/tags/sig/community-experience/</guid>
+      <guid>https://tl-dp.in/tags/sig/community-experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sig/services</title>
-      <link>https://tl-dp.in/meeting/tags/sig/services/</link>
+      <link>https://tl-dp.in/tags/sig/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tl-dp.in/meeting/tags/sig/services/</guid>
+      <guid>https://tl-dp.in/tags/sig/services/</guid>
       <description></description>
     </item>
     
